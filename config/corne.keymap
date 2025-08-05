@@ -36,7 +36,7 @@
                         bindings = <
    &kp N1    &kp N2    &kp N3    &kp N4    &kp N5    &kp N6    &kp N7    &kp N8    &kp N9    &kp N0    &kp MINUS &kp EQUAL
    &trans    &none     &none     &none     &none     &none     &none     &none     &none     &none     &kp RBKT  &kp BSLH
-   &trans    &NUBS     &none     &none     &none     &none     &none     &none     &none     &none     &none     &trans
+   &trans    &kp NUBS  &none     &none     &none     &none     &none     &none     &none     &none     &none     &trans
                                  &trans    &trans    &kp LGUI  &kp RALT  &trans     &trans
                         >;
                 };
